@@ -1,3 +1,5 @@
 __pycache__
 .env
 .learn
+/workspaces/KNN-project/data/movies_database.db
+/workspaces/KNN-project/data/processed/clean_data.csv
